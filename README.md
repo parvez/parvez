@@ -1,12 +1,14 @@
+## Senior Full-Stack Engineer
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=parvez&color=FAC151)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/parvez)
 
-## Senior Full-Stack Engineer
+## 📬 Get in Touch
 
-Hey 👋🏻,
+- Website:  https://parvez.github.io/portfolio/ [1]
+- LinkedIn:  https://www.linkedin.com/in/parvez1 [2]
 
 ## &#x1f4c8; My GitHub Stats
-
 <a href="https://github.com/parvez">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez&hide=PHP,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
