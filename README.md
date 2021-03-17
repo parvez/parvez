@@ -1,3 +1,10 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=parvez&color=FAC151)
+[![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/parvez)
+
+## Senior Full-Stack Engineer
+
+Hey 👋🏻,
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/parvez">
