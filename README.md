@@ -1,5 +1,14 @@
 ## Senior Full-Stack Engineer
 
+- 🔭 I’m currently working on VMware Carbon Black
+- 🌱 I’m currently learning SvelteJS
+- 👯 I’m looking to collaborate on Folding@Home
+- 🤔 I’m looking for help with HomeLab!
+- 💬 Ask me about Nothing
+- 📫 How to reach me: https://github.com/parvez
+- 😄 Pronouns: He / Him / His
+- ⚡ Fun fact: 🤟 Love to watch any Animated Series!
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=parvez&color=FAC151)
 [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/parvez)
 
