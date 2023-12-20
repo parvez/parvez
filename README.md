@@ -1,8 +1,8 @@
 ## Senior Full-Stack Engineer
 
-- 🔭 I’m currently working on VMware Carbon Black
+- 🔭 I’m currently working on 'VMware by Broadcom Carbon Black'
 - 🌱 I’m currently learning SvelteJS
-- 👯 I’m looking to collaborate on Folding@Home
+- 👯 I’m looking to collaborate on Home Assistant
 - 🤔 I’m looking for help with HomeLab!
 - 💬 Ask me about Nothing
 - 📫 How to reach me: https://github.com/parvez
