@@ -1,7 +1,7 @@
 ## Senior Full-Stack Engineer
 
-- 🔭 I’m currently working on 'VMware by Broadcom Carbon Black'
-- 🌱 I’m currently learning SvelteJS
+- 🔭 I’m currently working at `NVIDIA`
+- 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on Home Assistant
 - 🤔 I’m looking for help with HomeLab!
 - 💬 Ask me about Nothing
